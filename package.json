@@ -1,0 +1,13 @@
+{
+  "name": "joelshaw-photography",
+  "version": "1.0.0",
+  "description": "JoelShaw.photography",
+  "main": "index.js",
+  "repository": "https://github.com/joelshaw/joelshaw.photography.git",
+  "author": "Joel Shaw",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
